@@ -18,9 +18,9 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas:
 
-### 💻 Linguagens Front-End:  
+### 💻 Front-End:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### 📊 Análise de Dados:  
@@ -28,8 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/database.png" alt="DBeaver/SQL" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="40"/>
 </p>
 
 ### 🧰 Ferramentas de Desenvolvimento:  
@@ -70,6 +70,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafife12/rafife12/main/dist/pacman-contribution-graph.svg" />
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/rafife12/rafife12/main/dist/pacman-contribution-graph.svg" />
 </picture>
-
-
-
