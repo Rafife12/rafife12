@@ -1,29 +1,27 @@
-# 👋🏽 Olá, eu sou o Rafael Silva!
+# 👋🏽 Hello, My Name is Rafael Silva!
 
 <p align="left">
-  <strong>Analista de Dados</strong> em formação, apaixonado por transformar dados em decisões inteligentes. <br>
-  Atualmente trabalho na <strong>LM Soluções de Mobilidade</strong> e busco evoluir constantemente com análise de dados, visualização, automação e ciência de dados.
-</p>
+  <strong>Data Analyst</strong> in progress, passionate about Front-End languages (UI/UX)</strong>, passionate about creating engaging user interfaces and transforming data into intelligent decisions.</p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 🎓 Graduando em Engenharia da Computação (6º Semestre)  
-- 💼 Analista de Dados na LM Soluções de Mobilidade  
-- 🧠 Habilidades em Python, Power BI, SQL, R e Excel  
-- 📊 Crio dashboards, automatizo rotinas e exploro dados para gerar insights  
-- 🧰 Experiência com ferramentas como DBeaver, Figma, VSCode e GitHub  
-- 📚 Estudando continuamente análise preditiva, modelagem de dados e visualização  
+- 🎓 Bachelor's degree student in Computer Engineering (6th Semester)
+- 💼 Data Analyst at LM Soluções de Mobilidade  
+- 🧠 Skilled in Python, Power BI, SQL, R, and Excel  
+- 📊 I build dashboards, automate workflows, and explore data to generate insights 
+- 🧰 Experienced with tools like DBeaver, Figma, VSCode, and GitHub  
+- 📚 Continuously studying predictive analysis, data modeling, and data visualization  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas:
+## 🛠️ Technologies and Tools:
 
 ### 💻 Front-End:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-### 📊 Análise de Dados:  
+### 📊 Data Analysis and Database:  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="40"/>
@@ -32,12 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="40"/>
 </p>
 
-### 🧰 Ferramentas de Desenvolvimento:  
+### 🧰 Development Tools:  
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)](https://skillicons.dev)  
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈GitHub Stats
 
 <a href="https://github.com/rafife12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -48,7 +46,7 @@
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐  Let's Connect?!
 
 <a href="mailto:rafael.souzadsilva1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
