@@ -48,10 +48,21 @@
 
 ## 🌐  Let's Connect?!
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github,instagram)](https://skillicons.dev) <a href="mailto:rafael.souzadsilva1@gmail.com"></a>
-<a href="https://www.linkedin.com/in/rafael-silva-a5a594268/"></a>
-<a href="https://github.com/rafife12"></a>
-<a href="https://www.instagram.com/silvasrafael_/"></a>
+<p align="left">
+  <a href="mailto:rafael.souzadsilva1@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-silva-a5a594268/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/rafife12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/silvasrafael_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+  </a>
+</p>
+
 
 ---
 
