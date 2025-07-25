@@ -2,18 +2,17 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 * * * *"   # executa a cada hora
+  workflow_dispatch:      # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate SVG
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman graph
+      - name: Generate Pacman Contribution Graph SVG
         uses: MartnsTech/pacman-contribution-graph@main
         with:
           user_name: rafife12
