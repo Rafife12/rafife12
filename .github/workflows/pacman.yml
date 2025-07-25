@@ -2,12 +2,13 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 * * * *"   # executa a cada hora
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite UTC
+  workflow_dispatch:     # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -16,3 +17,11 @@ jobs:
         uses: MartnsTech/pacman-contribution-graph@main
         with:
           user_name: rafife12
+
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add output/
+          git commit -m "Update Pacman contribution graph [ci skip]" || echo "No changes to commit"
+          git push
