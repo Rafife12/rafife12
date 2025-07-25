@@ -1,39 +1,31 @@
 name: Generate Pacman Contribution Graph
 
 on:
+  schedule:
+    - cron: "0 0 * * *"  # todo dia meia-noite UTC
+  workflow_dispatch:
   push:
     branches:
       - main
-  schedule:
-    - cron: '0 0 * * *'  # roda todo dia à meia-noite UTC
-  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # para poder fazer commits no repo
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Generate pacman contribution graph SVG
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          node-version: '18'
+          github_user_name: rafife12
 
-      - name: Install pacman-contribution-graph package
-        run: npm install -g pacman-contribution-graph
-
-      - name: Generate pacman contribution graphs
-        run: |
-          mkdir -p dist
-          pacman-contribution-graph --username rafife12 --platform github --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
-          pacman-contribution-graph --username rafife12 --platform github --gameTheme github --output dist/pacman-contribution-graph.svg
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/
-          git commit -m "Atualiza Pacman Contribution Graph [skip ci]" || echo "No changes to commit"
-          git push origin main
+      - name: Commit and push updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Atualiza gráfico Pac-Man contribution"
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "actions@github.com"
