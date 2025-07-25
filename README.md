@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Graduando em Engenharia da Computação (6º período)  
+- 🎓 Graduando em Engenharia da Computação (6º Semestre)  
 - 💼 Analista de Dados na LM Soluções de Mobilidade  
 - 🧠 Habilidades em Python, Power BI, SQL, R e Excel  
 - 📊 Crio dashboards, automatizo rotinas e exploro dados para gerar insights  
