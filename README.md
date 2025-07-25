@@ -48,18 +48,10 @@
 
 ## 🌐  Let's Connect?!
 
-<a href="mailto:rafael.souzadsilva1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rafael-silva-a5a594268/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/rafife12">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.instagram.com/silvasrafael_/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github,instagram)](https://skillicons.dev) <a href="mailto:rafael.souzadsilva1@gmail.com"></a>
+<a href="https://www.linkedin.com/in/rafael-silva-a5a594268/"></a>
+<a href="https://github.com/rafife12"></a>
+<a href="https://www.instagram.com/silvasrafael_/"></a>
 
 ---
 
