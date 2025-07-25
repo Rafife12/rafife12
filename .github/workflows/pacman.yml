@@ -1,8 +1,11 @@
 name: Generate Pacman Contribution Graph
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -10,18 +13,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Contribution Graph SVG
-        uses: MartnsTech/pacman-contribution-graph@main
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          user_name: rafife12
+          node-version: '18'
 
-      - name: Commit and Push SVG
+      - name: Install pacman-contribution-graph package
+        run: npm install -g pacman-contribution-graph
+
+      - name: Generate pacman contribution graphs
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p dist
+          pacman-contribution-graph --username rafife12 --platform github --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
+          pacman-contribution-graph --username rafife12 --platform github --gameTheme github --output dist/pacman-contribution-graph.svg
+
+      - name: Commit and push changes
+        run: |
           git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/
-          git commit -m "Update Pacman contribution graph [ci skip]" || echo "No changes to commit"
-          git push
+          git commit -m "Atualiza Pacman Contribution Graph [skip ci]" || echo "No changes to commit"
+          git push origin main
