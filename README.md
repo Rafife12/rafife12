@@ -18,7 +18,7 @@
 
 ## 🛠️ Technologies and Tools:
 
-### 💻 Front-End:  
+### 🎨 Front-End:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### 📊 Data Analysis and Database:  
