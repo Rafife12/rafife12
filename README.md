@@ -2,6 +2,7 @@
 
 <p align="left">
   <strong>Data Analyst</strong> in progress, passionate about Front-End languages (UI/UX)</strong>, passionate about creating engaging user interfaces and transforming data into intelligent decisions.</p>
+  <strong>Curriculum:</strong> <a href="https://drive.google.com/file/d/1PUaRMP-870MPbz_A2Nucaf5hu0kHgcYC/view?usp=sharing](https://drive.google.com/file/d/1czyQP__WA79xnAZvAMoLw9bOqv0-pMmr/view?usp=sharing)">Click to view</a>
 
 ---
 
