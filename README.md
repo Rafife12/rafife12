@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 
 - 🎓 Bachelor's degree student in Computer Engineering (6th Semester)
 - 💼 Data Analyst at LM Soluções de Mobilidade  
