@@ -38,7 +38,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,java)](https://skillicons.dev)
 
 ### 🧰 Development Tools:  
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)  
 
 ---
 
