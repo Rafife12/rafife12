@@ -23,7 +23,7 @@
 ## 🛠️ Technologies and Tools:
 
 ### 🎨 Front-End:  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
 ### 📊 Data Analysis and Database:  
 <p align="left">
@@ -35,7 +35,7 @@
 </p>
 
 ### 🧑🏻‍💻 Learning:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,java,intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,java,idea)](https://skillicons.dev)
 
 ### 🧰 Development Tools:  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,arduino)](https://skillicons.dev)  
