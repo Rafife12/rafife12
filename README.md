@@ -35,10 +35,10 @@
 </p>
 
 ### 🧑🏻‍💻 Learning:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,java,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,java,arduino)](https://skillicons.dev)
 
 ### 🧰 Development Tools:  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,arduino)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,idea)](https://skillicons.dev)  
 
 ---
 
