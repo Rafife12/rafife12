@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=535&lines=Hello%2C+welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-
-## 👋🏻 My Name is Rafael Silva!
-
 <p align="left">
   <strong>Data Analyst</strong> in progress, passionate about Front-End languages (UI/UX)</strong>, passionate about creating engaging user interfaces and transforming data into intelligent decisions.</p>
   <strong>Curriculum:</strong> <a href=https://drive.google.com/file/d/1D1gvmIJhKXtjy6a2P-EvgaEqD-BfNW3n/view?usp=sharing>Click to view</a>
