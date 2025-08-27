@@ -48,7 +48,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/rafife12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
 
 
 ---
