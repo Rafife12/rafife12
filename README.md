@@ -9,6 +9,7 @@
  <strong>Curriculum:</strong> <a href=https://drive.google.com/file/d/1D1gvmIJhKXtjy6a2P-EvgaEqD-BfNW3n/view?usp=drive_link">Click to view</a><br>
  <strong>Portfolio:</strong> <a href=https://rafife12-analista.vercel.app/>Click to view</a>
 
+---
 
 ## 🚀 About Me:
 
@@ -70,7 +71,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
 </p>
-
 
 ---
 
