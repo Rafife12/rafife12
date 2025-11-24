@@ -36,9 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="40"/>
 </p>
 
-### 🧑🏻‍💻 Learning:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,java,arduino)](https://skillicons.dev)
-
 ### 🧰 Development Tools:  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,idea)](https://skillicons.dev)  
 
