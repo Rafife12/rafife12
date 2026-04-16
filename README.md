@@ -15,7 +15,7 @@
 
 - 🎓 Bachelor's degree student in Computer Engineering (7th Semester)
 - 💼 Data Analyst at LM Soluções de Mobilidade  
-- 🧠 Skilled in Python, Power BI, SQL, R, and Excel  
+- 🧠 Skilled in Python, Power BI, SQL and Excel  
 - 📊 I build dashboards, automate workflows, and explore data to generate insights 
 - 🧰 Experienced with tools like DBeaver, Figma, VSCode, and GitHub  
 - 📚 Continuously studying predictive analysis, data modeling, and data visualization  
