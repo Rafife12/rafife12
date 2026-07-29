@@ -13,7 +13,7 @@
 
 ## 🚀 About Me:
 
-- 🎓 Bachelor's degree student in Computer Engineering (7th Semester)
+- 🎓 Bachelor's degree student in Computer Engineering (8th Semester)
 - 💼 Data Analyst at LM Soluções de Mobilidade  
 - 🧠 Skilled in Python, Power BI, SQL and Excel  
 - 📊 I build dashboards, automate workflows, and explore data to generate insights 
