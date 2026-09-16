@@ -14,7 +14,7 @@
 ## 🚀 About Me:
 
 - 🎓 Bachelor's degree student in Computer Engineering (8th Semester)
-- 💼 Data Analyst at LM Soluções de Mobilidade  
+- 💼 Data Analyst at Heineken  
 - 🧠 Skilled in Python, Power BI, SQL and Excel  
 - 📊 I build dashboards, automate workflows, and explore data to generate insights 
 - 🧰 Experienced with tools like DBeaver, Figma, VSCode, and GitHub  
